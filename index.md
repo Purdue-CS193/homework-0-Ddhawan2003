@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Very interactive and enjoyable class
-- Love the instructors
+- Bulleted
+- List
 
 1. Numbered
 2. List
